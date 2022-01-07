@@ -1,6 +1,4 @@
-# Additional training and resources {#resources}  
->notebook filename | 07-Resources.Rmd  
-
+# Additional training and resources
 
 ## Exercises written in R  
 NOAA CoastWatch West Coast Node [CoastWatch West Coast Node](http://coastwatch.pfeg.noaa.gov) has compiled examples that demonstrate techniques to extract data from the ERDDAP data servers to address fisheries research needs, such as matching up satellite data to ship/animal tracks and create time series oceanographic regions such as marine protected areas. The examples use the `rerddapxtracto` library written in R, which generates ERDDAP URLs for you and sends data requests to extract data using ERDDAP.    
