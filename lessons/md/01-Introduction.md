@@ -1,5 +1,4 @@
 # Introduction
->notebook filename | 01-Introduction.Rmd  
 
 ## What is ERDDAP
 
