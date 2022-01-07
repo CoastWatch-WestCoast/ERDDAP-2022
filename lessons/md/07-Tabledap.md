@@ -109,3 +109,7 @@ __The data is upside-down and not much detail can be seen in the surface so lets
 
 ![Nitrate Section, fixed up](images/BGCSection2.png)
 
+
+   
+<!--html_preserve--><img src="images/cw_logo_80.png" alt="logo" style="position:absolute; top:0; right:0; padding:10px; width:100px"/><!--/html_preserve-->
+### CoastWatch
