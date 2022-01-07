@@ -243,7 +243,7 @@ sst1 <- (sst[,,1])
 image(sst1, col = rainbow(225))
 ```
 
-<img src="04-Erddapurl_files/figure-html/unnamed-chunk-2-1.png" width="672" />  
+<img src="images/erddap_r_plot.png" width="672" />  
 
 
 
