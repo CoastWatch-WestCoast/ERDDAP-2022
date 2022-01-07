@@ -1,6 +1,4 @@
-# Mapping Hurricane Jose with winds {#vectors}  
-
->notebook filename | 06-Vectors.Rmd  
+# Mapping Hurricane Jose with winds
 
 Hurricane Jose formed on September 5, 2017 and, on September 8, it reached its peak intensity as a high-end Category 4 hurricane. Jose worked its way northward along the US East Coast, finally dissipating on September 25, 2017. In this exercise we will try to capture the hurricane event using wind data from the ASCAT instruments on board all EUMETSAT's MetOp satellites.  ASCAT is a microwave scatterometer designed to measure surface winds over the global ocean.  
 
