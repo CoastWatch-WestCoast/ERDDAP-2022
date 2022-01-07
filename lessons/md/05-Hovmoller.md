@@ -1,5 +1,4 @@
-# Timeseries and Hovmoller diagrams {#hovmoller} 
->notebook filename | 05-Hovmoller.Rmd  
+# Timeseries and Hovmoller diagrams
 
 This exercise examines the marine heatwave that was observed in the North Pacific Ocean off the west coast of North America, also know as __The Blob__. It was first detected in late 2013 and continued to spread throughout 2014 and 2015.   
 
