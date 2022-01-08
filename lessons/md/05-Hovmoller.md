@@ -119,7 +119,8 @@ The time series plot shows the progression of the Blob at a single latitude and 
 The plot shows that the blob moved east throughout 2014 and 2015, and then expanded across most of the eastern basin at the end of 2015. 
 
 ## Try this on your own  
+
 Create a Hovmoller diagram plotted against latitude rather than longitude?  
 
-<!--html_preserve--><img src="images/cw_logo_80.png" alt="logo" style="position:absolute; top:0; right:0; padding:10px; width:100px"/><!--/html_preserve-->
-### CoastWatch
+
+![](images/cw_logo_80.png)  <span style="color:blue;font-size:30px;">[CoastWatch](https://coastwatch.noaa.gov/)</span>
