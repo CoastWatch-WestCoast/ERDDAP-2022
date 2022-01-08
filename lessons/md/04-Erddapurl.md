@@ -245,9 +245,5 @@ image(sst1, col = rainbow(225))
 
 <img src="images/erddap_r_plot.png" width="672" />  
 
-
-
-
-<!--html_preserve--><img src="images/cw_logo_80.png" alt="logo" style="position:absolute; top:0; right:0; padding:10px; width:100px"/><!--/html_preserve-->
-### CoastWatch
+![](images/cw_logo_80.png)  <span style="color:blue;font-size:30px;">[CoastWatch](https://coastwatch.noaa.gov/)</span>
 
