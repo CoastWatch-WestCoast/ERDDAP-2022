@@ -45,6 +45,5 @@ Within the search results you have access to information about each dataset to h
  
 
 
-<!--html_preserve--><img src="images/cw_logo_80.png" alt="logo" style="position:absolute; top:0; right:0; padding:10px; width:100px"/><!--/html_preserve-->
-### CoastWatch
+![](images/cw_logo_80.png)  <span style="color:blue;font-size:30px;">[CoastWatch](https://coastwatch.noaa.gov/)</span>
 
